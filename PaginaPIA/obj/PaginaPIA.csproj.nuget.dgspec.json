@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\renel\\source\\repos\\PaginaPIA\\PaginaPIA\\PaginaPIA.csproj": {}
+    "D:\\UNI\\PROGRAMACION WEB\\PaginaPIA\\PIA-Pagina\\PaginaPIA\\PaginaPIA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\renel\\source\\repos\\PaginaPIA\\PaginaPIA\\PaginaPIA.csproj": {
+    "D:\\UNI\\PROGRAMACION WEB\\PaginaPIA\\PIA-Pagina\\PaginaPIA\\PaginaPIA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\renel\\source\\repos\\PaginaPIA\\PaginaPIA\\PaginaPIA.csproj",
+        "projectUniqueName": "D:\\UNI\\PROGRAMACION WEB\\PaginaPIA\\PIA-Pagina\\PaginaPIA\\PaginaPIA.csproj",
         "projectName": "PaginaPIA",
-        "projectPath": "C:\\Users\\renel\\source\\repos\\PaginaPIA\\PaginaPIA\\PaginaPIA.csproj",
+        "projectPath": "D:\\UNI\\PROGRAMACION WEB\\PaginaPIA\\PIA-Pagina\\PaginaPIA\\PaginaPIA.csproj",
         "packagesPath": "C:\\Users\\renel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\renel\\source\\repos\\PaginaPIA\\PaginaPIA\\obj\\",
+        "outputPath": "D:\\UNI\\PROGRAMACION WEB\\PaginaPIA\\PIA-Pagina\\PaginaPIA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

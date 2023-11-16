@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d4WN4ohZRUYJ/miOlJHZUYlPV72gFxtj1vDCC5oSl6chHR6UbSNeTpmr+/zb5izw8IkEXM7aes7ty+nP8VItqA==",
+  "dgSpecHash": "celYvn94bo7MWbL3KSupKSBthfm6POAXq3l8K+gvZa4GuM6/yzcX504/prH55TnyuGoIDwUEEwmu6iHfsnFRsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\renel\\source\\repos\\PaginaPIA\\PaginaPIA\\PaginaPIA.csproj",
+  "projectFilePath": "D:\\UNI\\PROGRAMACION WEB\\PaginaPIA\\PIA-Pagina\\PaginaPIA\\PaginaPIA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\renel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\renel\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.22\\microsoft.aspnetcore.cryptography.internal.6.0.22.nupkg.sha512",

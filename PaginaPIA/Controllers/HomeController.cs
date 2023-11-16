@@ -18,7 +18,7 @@ namespace PaginaPIA.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Servicios()
         {
             return View();
         }
